@@ -1,7 +1,16 @@
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 #remote_theme: minimal-mistakes-jekyll
 title: VocabulariosFEMP
-layout: single
+layout: 
+ - sidebar:
+    - title: "Title"
+      image: http://placehold.it/350x250
+      image_alt: "image"
+      text: "Some text here."
+    - title: "Another Title"
+      text: "More text here."
+      nav: sidebar-sample
+
 plugins:
   - jekyll-include-cache  
   - jekyll-paginate
@@ -18,11 +27,3 @@ defaults:
     values:
       layout: single
       
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
