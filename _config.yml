@@ -18,5 +18,14 @@ defaults:
     values:
       layout: single
       
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+      
 sidebar:
   nav: "docs"
