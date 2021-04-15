@@ -20,10 +20,19 @@ plugins:
   - jemoji
   
 defaults:
-  # _pages
+  # _docs
   - scope:
       path: ""
-      type: pages
+      type: docs
     values:
-      layout: single
+      sidebar:
+        nav: "docs"
+        
+#defaults:
+  # _pages
+ # - scope:
+  #    path: ""
+   #   type: pages
+  #  values:
+   #   layout: single
       
