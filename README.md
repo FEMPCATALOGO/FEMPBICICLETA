@@ -1,6 +1,9 @@
+---
 sidebar:
   nav: "docs"
-  
+---
+
+
 # VOCABULARIO BICICLETA
 
 
