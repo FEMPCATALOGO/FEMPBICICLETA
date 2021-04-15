@@ -1,9 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-markdown: "kramdown"
+#markdown: "kramdown"
 #remote_theme: minimal-mistakes-jekyll
 title: VocabulariosFEMP
-layout: 
- - sidebar:
+layout: simple
+sidebar:
     - title: "Title"
       image: http://placehold.it/350x250
       image_alt: "image"
