@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
 # VOCABULARIO BICICLETA
 
@@ -10,14 +14,14 @@
  # Poner iconono en el lateral 
  # Poner qr con las paginas en los links
   
- ## Estado
+## Estado
  Trabajando
  
- ## Links
+## Links
  Ponemos links *[Hola]()* 
  
  
- ## Issues
+## Issues
  Ponemos link a issues
 
 ## Description
