@@ -22,7 +22,7 @@ defaults:
 author:
   name   : "Bicicleta"
   avatar : "img/bicicleta.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
