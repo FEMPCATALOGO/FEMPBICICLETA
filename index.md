@@ -56,6 +56,12 @@ Transporte
   - *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)* 
   - *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)*
  
+<p float="right" align="center">
+   <img src="img/qr_img.png" alt="Agenda municipal" width="150" /> &nbsp;&nbsp; 
+   <img src="Iconos/qr_imgRepositorio.png" alt="Agenda" width="150"/>&nbsp;&nbsp;
+   <img src="Iconos/qr_imgRequisitos.png" alt="Aparcamiento" width="150" />&nbsp;&nbsp; 
+   <img src="Iconos/qr_imgWebinar.png" alt="Aparcamiento" width="150" />&nbsp;&nbsp; 
+</p>
  
 ### Issues <a name="id4"></a>
  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)* 
