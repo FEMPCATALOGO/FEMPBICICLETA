@@ -7,14 +7,14 @@ author_profile: true
 title: false
 ---
 
-# 
+
 # VOCABULARIO BICICLETA
 
 
  
-| Claficacion NTI |  Estado  |   Links   |   Issues   |   Description   |
+| Claficacion NTI |  Estado  |   Links   |   Issues   |   Descripción   |
 | -------- | -------- | --------- | ---------- | --------------- |
-| Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   &nbsp; *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  &nbsp; *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*   &nbsp; *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Descripcion  |
+| Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   &nbsp; *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  &nbsp; *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*   &nbsp; *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Vocabulario para la representación de datos sobre el sistema de bicicleta pública.  |
  
  
   
@@ -23,34 +23,52 @@ title: false
  | -------- | --------- | -------- | --------- | ---------- |  
  | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
  
- 
- 
-   	
+ &nbsp;   	
     
  
  
  
- # Poner iconono en el lateral 
+ ## Poner iconono en el lateral 
  
- # Poner qr con las paginas en los links
+ ## Poner qr con las paginas en los links
   
-## Estado
- Trabajando
+###  Claficacion NTI 
+Transporte
+  
+### Estado
+ Terminado
  
-## Links
- Ponemos links *[Hola]()* 
+### Links
+  - *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   
+  - *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  
+  - *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)* 
+  - *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)*
  
  
-## Issues
- Ponemos link a issues
+### Issues
+ *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)* 
 
-## Description
+### Description
+Vocabulario para la representación de datos sobre el sistema de bicicleta pública.
 
-## Serialization
+### Fecha Publicación 
+30/04/20 
 
-## License
+### Prefijo  
+esbici
 
-## Language
+### Formatos 
+- rdf+xml   
+- html   
+- turtle
+
+### Liciencia 
+CC-BY
+
+### Idiomas 
+- es   
+- en 
+
 
 
  el estado actual, links al repo en GitHub, links al roadmap, la posibilidad de subir issues, etc. Algo parecido a lo que solemos publicar en sitios como vocab.ciudadesabiertas.es, en vocab.linkeddata.es/datosabiertos/ o en sitios como w3id.org/devops-infra.
