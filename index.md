@@ -37,7 +37,7 @@ title: false
 7. [Prefijo](#id7)  
 8. [Formatos](#id8) 
 9. [Liciencia](#id9)
-10.[Idiomas ](#id10) 
+10. [Idiomas ](#id10) 
  
  
  ## Poner iconono en el lateral 
