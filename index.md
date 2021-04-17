@@ -13,14 +13,14 @@ author_profile: true
  
 | Claficacion NTI |  Estado  |   Links   |   Issues   |   Description   |
 | -------- | -------- | --------- | ---------- | --------------- |
-| Transporte | Trabajando | *[Hola]()*   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;   *[Hola]()*   &nbsp; |  *[Issue]()*   | Descripcion  |
+| Transporte | Terminado | *[Repositorio](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   &nbsp; *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*   &nbsp; *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Issue]()*   | Descripcion  |
  
  
   
  
-  | Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idioma   |   Dominio   | 
- | -------- | --------- | -------- | --------- | ---------- | --------------- | 
- | Trabajando | *[Hola]()* | Trabajando | *[Hola]()*  |  *[Issue]()*   | Descripcion  | 
+  | Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+ | -------- | --------- | -------- | --------- | ---------- |  
+ | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
  
  
  
