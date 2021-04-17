@@ -64,7 +64,10 @@ Transporte
 </p>
  
 ### Issues <a name="id4"></a>
- *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)* 
+ *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*  
+ 
+ &nbsp; 
+ <img src="img/qr_imgIssues.png" alt="qr" width="150">
 
 ### Descripción <a name="id5"></a>
 Vocabulario para la representación de datos sobre el sistema de bicicleta pública.
