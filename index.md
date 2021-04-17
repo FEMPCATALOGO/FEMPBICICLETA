@@ -29,16 +29,16 @@ title: false
     
 ##  **ÍNDICE**   
 1. Propiedades del vocabulario
-     1. [Clasificacion NTI](#id1)
-     2. [Estado](#id2)
-     3. [Links](#id3)
-     4. [Issues](#id4) 
-     5. [Descripción](#id5) 
-     6. [Fecha Publicación](#id6)
-     7. [Prefijo](#id7)
-     8. [Formatos](#id8)
-     9. [Liciencia](#id9)
-     10. [Idiomas ](#id10) 
+     - [Clasificacion NTI](#id1)
+     - [Estado](#id2)
+     - [Links](#id3)
+     - [Issues](#id4) 
+     - [Descripción](#id5) 
+     - [Fecha Publicación](#id6)
+     - [Prefijo](#id7)
+     - [Formatos](#id8)
+     - [Liciencia](#id9)
+     - [Idiomas](#id10) 
 2. [README del vocabulario](#id11)
  
  
