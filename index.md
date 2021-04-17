@@ -25,9 +25,9 @@ title: false
  
  
  
- &nbsp   	
+ &nbsp;   	
     
- ##  **ÍNDICE**   
+##  **ÍNDICE**   
 1. [Clasificacion NTI](#id1)
 2. [Estado](#id2)
 3. [Links](#id3)
