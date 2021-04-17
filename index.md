@@ -6,14 +6,28 @@ layout: single
 author_profile: true
 ---
 
-
+# 
 # VOCABULARIO BICICLETA
 
 
  
- |  Estado  |   Links   |   Issues   |   Description   |
- | -------- | --------- | ---------- | --------------- |
- | Trabajando | *[Hola]()*   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;   *[Hola]()*   &nbsp; |  *[Issue]()*   | Descripcion  |
+| Claficacion NTI |  Estado  |   Links   |   Issues   |   Description   |
+| -------- | -------- | --------- | ---------- | --------------- |
+| Transporte | Trabajando | *[Hola]()*   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;   *[Hola]()*   &nbsp; |  *[Issue]()*   | Descripcion  |
+ 
+ 
+  
+ 
+  | Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idioma   |   Dominio   | 
+ | -------- | --------- | -------- | --------- | ---------- | --------------- | 
+ | Trabajando | *[Hola]()* | Trabajando | *[Hola]()*  |  *[Issue]()*   | Descripcion  | 
+ 
+ 
+ 
+   	
+    
+ 
+ 
  
  # Poner iconono en el lateral 
  
@@ -45,3 +59,22 @@ Ontology    	Serialization     	License	      Language	      Links	             
 Core ontology 	rdf+xml html	    CC-BY          	en	         repositoryRepository           Core ontology used for the whole ontology network
                                                                repositoryIssues
                                                                repositoryRequirements	
+
+
+
+
+
+
+Más opciones:
+ Recursos -> Estaciones, tiempo real, itinerarios, usuarios, usos
+ Comentarios
+ Valor de reutilización
+ Complejidad
+ Transoarencia
+ Campos mínimos
+ Tamaño de ciudad
+ Frecuencua de actaulización mínima
+ Afectado por normativa de protección de datos
+ Histórico: forma de presentarlo
+ 
+ 
