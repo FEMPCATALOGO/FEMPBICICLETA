@@ -39,11 +39,7 @@ title: false
 9. [Liciencia](#id9)
 10. [Idiomas ](#id10) 
  
- 
- ##  Poner iconono en el lateral 
- 
- ##  Poner qr con las paginas en los links
-  
+   
 ###  Claficacion NTI <a name="id1"></a>
 Transporte
   
