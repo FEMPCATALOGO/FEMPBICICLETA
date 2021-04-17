@@ -23,49 +23,61 @@ title: false
  | -------- | --------- | -------- | --------- | ---------- |  
  | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
  
+ 
+ 
  &nbsp;   	
     
- 
+ ## **ÍNDICE**   
+1. [Clasificacion NTI](#id1)
+2. [Estado](#id2)
+3. [Links](#id3)
+4. [Issues](#id4)  
+5. [Descripción](#id5)  
+6. [Fecha Publicación](#id6) 
+7. [Prefijo](#id7)  
+8. [Formatos](#id8) 
+9. [Liciencia](#id9)
+10.[Idiomas ](#id10) 
  
  
  ## Poner iconono en el lateral 
  
  ## Poner qr con las paginas en los links
   
-###  Claficacion NTI 
+###  Claficacion NTI <a name="id1"></a>
 Transporte
   
-### Estado
+### Estado <a name="id2"></a>
  Terminado
  
-### Links
+### Links <a name="id3"></a>
   - *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   
   - *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  
   - *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)* 
   - *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)*
  
  
-### Issues
+### Issues <a name="id4"></a>
  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)* 
 
-### Description
+### Descripción <a name="id5"></a>
 Vocabulario para la representación de datos sobre el sistema de bicicleta pública.
 
-### Fecha Publicación 
+### Fecha Publicación  <a name="id6"></a>
 30/04/20 
 
-### Prefijo  
+### Prefijo  <a name="id7"></a>
 esbici
 
-### Formatos 
+### Formatos <a name="id8"></a>
 - rdf+xml   
 - html   
 - turtle
 
-### Liciencia 
+### Liciencia <a name="id9"></a>
 CC-BY
 
-### Idiomas 
+### Idiomas <a name="id10"></a>
 - es   
 - en 
 
@@ -73,14 +85,6 @@ CC-BY
 
  el estado actual, links al repo en GitHub, links al roadmap, la posibilidad de subir issues, etc. Algo parecido a lo que solemos publicar en sitios como vocab.ciudadesabiertas.es, en vocab.linkeddata.es/datosabiertos/ o en sitios como w3id.org/devops-infra.
  
-
-Ontology    	Serialization     	License	      Language	      Links	                      Description
-Core ontology 	rdf+xml html	    CC-BY          	en	         repositoryRepository           Core ontology used for the whole ontology network
-                                                               repositoryIssues
-                                                               repositoryRequirements	
-
-
-
 
 
 
