@@ -67,7 +67,7 @@ Transporte
  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*  
  
  &nbsp; 
- <img src="img/qr_imgIssues.png" alt="qr" width="150">
+ <!-- <img src="img/qr_imgIssues.png" alt="qr" width="150"> -->
 
 ### Descripción <a name="id5"></a>
 Vocabulario para la representación de datos sobre el sistema de bicicleta pública.
@@ -92,11 +92,11 @@ CC-BY
 
 
 
- el estado actual, links al repo en GitHub, links al roadmap, la posibilidad de subir issues, etc. Algo parecido a lo que solemos publicar en sitios como vocab.ciudadesabiertas.es, en vocab.linkeddata.es/datosabiertos/ o en sitios como w3id.org/devops-infra.
+
  
 
 
-
+<!--
 Más opciones:
  Recursos -> Estaciones, tiempo real, itinerarios, usuarios, usos
  Comentarios
@@ -108,5 +108,7 @@ Más opciones:
  Frecuencua de actaulización mínima
  Afectado por normativa de protección de datos
  Histórico: forma de presentarlo
- 
+-----------------
+ el estado actual, links al repo en GitHub, links al roadmap, la posibilidad de subir issues, etc. Algo parecido a lo que solemos publicar en sitios como vocab.ciudadesabiertas.es, en vocab.linkeddata.es/datosabiertos/ o en sitios como w3id.org/devops-infra.
+ -->
  
