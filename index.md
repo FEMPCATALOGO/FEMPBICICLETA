@@ -28,18 +28,22 @@ title: false
  &nbsp;   	
     
 ##  **ÍNDICE**   
-1. [Clasificacion NTI](#id1)
-2. [Estado](#id2)
-3. [Links](#id3)
-4. [Issues](#id4)  
-5. [Descripción](#id5)  
-6. [Fecha Publicación](#id6) 
-7. [Prefijo](#id7)  
-8. [Formatos](#id8) 
-9. [Liciencia](#id9)
-10. [Idiomas ](#id10) 
+1. Propiedades del vocabulario
+     1. [Clasificacion NTI](#id1)
+     2. [Estado](#id2)
+     3. [Links](#id3)
+     4. [Issues](#id4) 
+     5. [Descripción](#id5) 
+     6. [Fecha Publicación](#id6)
+     7. [Prefijo](#id7)
+     8. [Formatos](#id8)
+     9. [Liciencia](#id9)
+     10. [Idiomas ](#id10) 
+2. [README del vocabulario](#id11)
  
-   
+ 
+## Propiedades del vocabulario
+
 ###  Claficacion NTI <a name="id1"></a>
 Transporte
   
@@ -87,6 +91,9 @@ CC-BY
 - en 
 
 
+## README <a name="id11"></a>
+
+<link href="https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md" rel="external />
 
 
  
