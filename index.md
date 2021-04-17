@@ -51,16 +51,16 @@ Transporte
  Terminado
  
 ### Links <a name="id3"></a>
-  - *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   
-  - *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  
-  - *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)* 
-  - *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)*
+  1. *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   
+  2. *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  
+  3. *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)* 
+  4. *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)*
  
 <p float="right" align="center">
-   <img src="img/qr_img.png" alt="Agenda municipal" width="150" /> &nbsp;&nbsp; 
-   <img src="Iconos/qr_imgRepositorio.png" alt="Agenda" width="150"/>&nbsp;&nbsp;
-   <img src="Iconos/qr_imgRequisitos.png" alt="Aparcamiento" width="150" />&nbsp;&nbsp; 
-   <img src="Iconos/qr_imgWebinar.png" alt="Aparcamiento" width="150" />&nbsp;&nbsp; 
+   1. <img src="img/qr_img.png" alt="qr" width="150" /> &nbsp;&nbsp; 
+   2. <img src="img/qr_imgRepositorio.png" alt="qr" width="150"/>&nbsp;&nbsp;
+   3. <img src="img/qr_imgRequisitos.png" alt="qr" width="150" />&nbsp;&nbsp; 
+   4. <img src="img/qr_imgWebinar.png" alt="qr" width="150" />&nbsp;&nbsp; 
 </p>
  
 ### Issues <a name="id4"></a>
