@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: false
 ---
 
 # 
@@ -13,7 +14,7 @@ author_profile: true
  
 | Claficacion NTI |  Estado  |   Links   |   Issues   |   Description   |
 | -------- | -------- | --------- | ---------- | --------------- |
-| Transporte | Terminado | *[Repositorio](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   &nbsp; *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*   &nbsp; *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Issue]()*   | Descripcion  |
+| Transporte | Terminado | *[Repositorio](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   &nbsp; *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*   &nbsp; *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Descripcion  |
  
  
   
