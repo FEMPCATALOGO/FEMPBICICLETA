@@ -14,7 +14,7 @@ title: false
  
 | Claficacion NTI |  Estado  |   Links   |   Issues   |   Description   |
 | -------- | -------- | --------- | ---------- | --------------- |
-| Transporte | Terminado | *[Repositorio](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   &nbsp; *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*   &nbsp; *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Descripcion  |
+| Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   &nbsp; *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  &nbsp; *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*   &nbsp; *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Descripcion  |
  
  
   
