@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 title: false
 ---
-
+<link href="stylesheet.css" rel="stylesheet"/>
 
 # VOCABULARIO BICICLETA
 
