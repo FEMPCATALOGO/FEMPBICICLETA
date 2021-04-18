@@ -10,7 +10,9 @@ title: false
 
 # VOCABULARIO BICICLETA
 
-
+&nbsp;
+***
+&nbsp;
  
 | Claficacion NTI |  Estado  |   Links   |   Issues   |   Descripción   |
 | -------- | -------- | --------- | ---------- | --------------- |
@@ -98,6 +100,9 @@ CC-BY
   <img src="img/qr_imgREADME.png" alt="qr" width="120" />
 
 
+&nbsp;
+***
+&nbsp;
 
 <p float="right" align="center">
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>
