@@ -8,7 +8,7 @@ title: false
 ---
 
 
-# VOCABULARIO BICICLETA
+<h1> VOCABULARIO BICICLETA </h1>
 
   
 ---
@@ -30,7 +30,7 @@ title: false
  
  &nbsp;   	
     
-##  **ÍNDICE**   
+<h2>  ÍNDICE   </h2>
 1. Propiedades del vocabulario
      - [Clasificacion NTI](#id1)
      - [Estado](#id2)
@@ -45,15 +45,15 @@ title: false
 2. [README de Bicicleta](#id11)
  
  
-## Propiedades del vocabulario
+<h2> Propiedades del vocabulario </h2>
 
-###  Claficacion NTI <a name="id1"></a>
+<h3>  Claficacion NTI <a name="id1"></a>   </h3>
 Transporte
   
-### Estado <a name="id2"></a>
+<h3> Estado <a name="id2"></a>   </h3>
  Terminado
  
-### Links <a name="id3"></a>
+<h3> Links <a name="id3"></a>   </h3>
   1. *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   
   2. *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  
   3. *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)* 
@@ -66,35 +66,35 @@ Transporte
    4. <img src="img/qr_imgWebinar.png" alt="qr" width="120" />&nbsp;&nbsp; 
 </p>
  
-### Issues <a name="id4"></a>
+<h3> Issues <a name="id4"></a>  </h3>
  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*  
  
  &nbsp; 
  <!-- <img src="img/qr_imgIssues.png" alt="qr" width="150"> -->
 
-### Descripción <a name="id5"></a>
+<h3> Descripción <a name="id5"></a>   </h3>
 Vocabulario para la representación de datos sobre el sistema de bicicleta pública.
 
-### Fecha Publicación  <a name="id6"></a>
+<h3> Fecha Publicación  <a name="id6"></a>   </h3>
 30/04/20 
 
-### Prefijo  <a name="id7"></a>
+<h3> Prefijo  <a name="id7"></a>   </h3>
 esbici
 
-### Formatos <a name="id8"></a>
+<h3> Formatos <a name="id8"></a>   </h3>
 - rdf+xml   
 - html   
 - turtle
 
-### Liciencia <a name="id9"></a>
+<h3> Liciencia <a name="id9"></a>   </h3>
 CC-BY
 
-### Idiomas <a name="id10"></a>
+<h3> Idiomas <a name="id10"></a>   </h3>
 - es   
 - en 
 
 
-## README <a name="id11"></a>
+<h2> README <a name="id11"></a>   </h2>
 
 *[README del vocabulario de Bicicleta](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md)*   
 
