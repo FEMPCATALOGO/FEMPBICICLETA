@@ -95,7 +95,7 @@ CC-BY
 
 *[README del vocabulario de Bicicleta](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md)*   
 
- 
+  <img src="img/qr_imgREADME.png" alt="qr" width="120" />
 
 
 <!--
