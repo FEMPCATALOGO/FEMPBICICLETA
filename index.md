@@ -31,6 +31,7 @@ title: false
  &nbsp;   	
     
 <h2>  ÍNDICE </h2>
+
 1. Propiedades del vocabulario
      - [Clasificacion NTI](#id1)
      - [Estado](#id2)
