@@ -30,7 +30,7 @@ title: false
  
  &nbsp;   	
     
-##  **ÍNDICE**   
+<h2>  ÍNDICE </h2>
 1. Propiedades del vocabulario
      - [Clasificacion NTI](#id1)
      - [Estado](#id2)
@@ -45,7 +45,7 @@ title: false
 2. [README de Bicicleta](#id11)
  
  
-## Propiedades del vocabulario
+<h2>  Propiedades del vocabulario </h2> 
 
 ###  Claficacion NTI <a name="id1"></a>
 Transporte
@@ -94,8 +94,8 @@ CC-BY
 - en 
 
 
-## README <a name="id11"></a>
-
+<h2>  README  </h2> 
+<a name="id11"></a>
 *[README del vocabulario de Bicicleta](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md)*   
 
   <img src="img/qr_imgREADME.png" alt="qr" width="120" />
