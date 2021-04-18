@@ -33,7 +33,7 @@ Transporte
  
 <p float="right" align="center">
    1. <img src="img/qr_img.png" alt="qr" width="120" /> &nbsp;&nbsp; 
-   2. <img src="img/qr_imgRepositorio.png" alt="qr" width="120"/>&nbsp;&nbsp;
+   2. <img src="img/qr_imgRepositorio.png" alt="qr" width="120"/>&nbsp;&nbsp;&nbsp;
    3. <img src="img/qr_imgRequisitos.png" alt="qr" width="120" />&nbsp;&nbsp; 
    4. <img src="img/qr_imgWebinar.png" alt="qr" width="120" />&nbsp;&nbsp; 
 </p>
