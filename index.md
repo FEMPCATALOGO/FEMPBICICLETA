@@ -32,7 +32,7 @@ title: false
     
 <h2>  ÍNDICE </h2>
 
-1. Propiedades del vocabulario
+1. [PROPIEDADES](#id12)
      - [Clasificacion NTI](#id1)
      - [Estado](#id2)
      - [Links](#id3)
@@ -46,7 +46,7 @@ title: false
 2. [README de Bicicleta](#id11)
  
  
-<h2>  Propiedades del vocabulario </h2> 
+<h2>  PROPIEDADES </h2> <a name="id12"></a>
 
 ###  Claficacion NTI <a name="id1"></a>
 Transporte
