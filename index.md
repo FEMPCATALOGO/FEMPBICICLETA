@@ -39,7 +39,7 @@ title: false
      - [Formatos](#id8)
      - [Liciencia](#id9)
      - [Idiomas](#id10) 
-2. [README del vocabulario](#id11)
+2. [README de Bicicleta](#id11)
  
  
 ## Propiedades del vocabulario
@@ -93,10 +93,9 @@ CC-BY
 
 ## README <a name="id11"></a>
 
-<link href="https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales" rel="import" />
+*[README del vocabulario de Bicicleta](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md)*   
 
-
- https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md
+ 
 
 
 <!--
