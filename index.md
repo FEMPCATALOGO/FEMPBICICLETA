@@ -12,6 +12,7 @@ title: false
 
 &nbsp;
 ***
+<br>
 &nbsp;
  
 | Claficacion NTI |  Estado  |   Links   |   Issues   |   Descripción   |
