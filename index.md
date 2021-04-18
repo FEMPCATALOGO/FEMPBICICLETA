@@ -11,8 +11,9 @@ title: false
 # VOCABULARIO BICICLETA
 
 &nbsp;
-***
-<br>
+  
+---
+
 &nbsp;
  
 | Claficacion NTI |  Estado  |   Links   |   Issues   |   Descripción   |
