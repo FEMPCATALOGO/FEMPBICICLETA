@@ -10,7 +10,6 @@ title: false
 
 # VOCABULARIO BICICLETA
 
-&nbsp;
   
 ---
 
@@ -103,7 +102,7 @@ CC-BY
 
 
 &nbsp;
-***
+---
 &nbsp;
 
 <p float="right" align="center">
