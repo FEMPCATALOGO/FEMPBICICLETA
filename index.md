@@ -20,7 +20,7 @@ classes: wide
 
   
   
-| Clasificacion NTI |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| Clasificación NTI |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
 | Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)* *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*  *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Vocabulario para la representación de datos sobre el sistema de bicicleta pública.  | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
  
@@ -39,7 +39,7 @@ classes: wide
 </div>
 
 1. [PROPIEDADES](#id12)
-     - [Clasificacion NTI](#id1)
+     - [Clasificación NTI](#id1)
      - [Estado](#id2)
      - [Links](#id3)
      - [Issues](#id4) 
@@ -54,7 +54,7 @@ classes: wide
  
 <h2>  PROPIEDADES </h2> <a name="id12"></a>
 
-###  Clasificacion NTI <a name="id1"></a>
+###  Clasificación NTI <a name="id1"></a>
 Transporte
   
 ### Estado <a name="id2"></a>
