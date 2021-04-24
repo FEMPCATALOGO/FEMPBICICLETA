@@ -113,7 +113,7 @@ CC-BY
 &nbsp;
 
 <p float="right" align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Fcompany%2Ffederaci-n-espa-ola-de-municipios-y-provincias-femp-&psig=AOvVaw1Qotb2Ssoh91a1yHGcpFe8&ust=1619367649636000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODKjd6kl_ACFQAAAAAdAAAAABAb" alt="Logo FEMP" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FEMP_%28logotipo%29.svg/590px-FEMP_%28logotipo%29.svg.png" alt="Logo FEMP" width="150"/>
  <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/red-logo.svg" alt="Logo red.es" width="150"/>
 </p>
