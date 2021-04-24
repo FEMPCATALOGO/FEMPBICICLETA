@@ -24,12 +24,12 @@ author:
   avatar : "img/bicicleta.png"
   bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
   links:
-    - label: "Ciudades Abiertas web"
+    - label: "Página web"
       icon: "fas fa-fw fa-link"
-      url: "https://ciudadesabiertas.es/vocabularios/#Descripci%C3%B3n"
-    - label: "GitHub OpenCity"
+      url: "http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/opencitydata/"
+      url: "https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica"
 
 
 
