@@ -5,6 +5,7 @@
 layout: single
 author_profile: true 
 title: false
+classes: wide
 ---
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
