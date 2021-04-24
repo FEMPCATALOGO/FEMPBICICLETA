@@ -34,8 +34,12 @@ title: false
 </div>
  
  &nbsp;   	
-    
+ 
+<div id="todo">
+  
 <h2>  ÍNDICE </h2>
+  
+</div>
 
 1. [PROPIEDADES](#id12)
      - [Clasificacion NTI](#id1)
