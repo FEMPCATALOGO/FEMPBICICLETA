@@ -21,7 +21,7 @@ defaults:
       
 author:
   name   : "Bicicleta"
-  avatar : "img/bicicleta.png"
+  avatar : "img/bicicletaSINa.png"
   bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
   links:
     - label: "Página web"
