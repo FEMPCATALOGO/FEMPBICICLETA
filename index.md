@@ -16,7 +16,7 @@ title: false
 
 &nbsp;
  
-<div id="todo">
+
   
   
 | Claficacion NTI |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -31,7 +31,7 @@ title: false
  | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
  
  
-</div>
+
  
  &nbsp;   	
  
