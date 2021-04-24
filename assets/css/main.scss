@@ -7,7 +7,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-#header_wrap {
+#body {
     background: url(portada.jpg) no-repeat center center;
     background-size: cover;
 }
